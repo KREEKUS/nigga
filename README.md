@@ -1,5 +1,5 @@
 {
-    "url": "stratums://`0xe9A6E09c1B55fBC1b0fA32302fDFd2E7b10b2452`.VORKER(LOH)@etc.2miners.com:11010",
+    "url": "stratums://`0x8BE7CA17FF9C100220383866E1AaFE5f61c4BDBB`.VORKER(LOH)@etc.2miners.com:11010",
     "algo": "etchash",
     "max-gpu": 50,
     "idle-wait": 2,
